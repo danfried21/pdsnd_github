@@ -198,7 +198,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-
+#ask the user to see 5 lines of raw data
         x=0
         y=5
         while True:
