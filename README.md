@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-August 10,2021
+August 10, 2021
 
 ### Project Title
 Bikeshare Python Project
@@ -14,4 +14,4 @@ The project takes in raw input from a user and displays descriptive statistics a
 bikeshare.py
 
 ### Credits
-This repository was forked from a Udacity repository.
+This repository was forked from a Udacity repository on Github. 
