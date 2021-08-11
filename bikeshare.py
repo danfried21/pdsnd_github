@@ -19,7 +19,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         try:
-            city= input('Which city would you like to explore(chicago, new york city, or washington)?: ').lower()
+            city= input('Please type the city that you would like to explore(chicago, new york city, or washington): ').lower()
             if city == 'chicago' or city == 'new york city' or city =='washington':
                 print('You selected: ',city)
                 break
